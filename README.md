@@ -2,7 +2,7 @@
 
 - :seedling: Atualmente estou estudando e trabalhando com Python e AWS. | I am currently studying and working with python and Aws.
 - :telescope: Trabalho na empresa Krykto como desenvolvedor Back-end Python. | I work at Krykto as a Python Back-end developer.
-- :mailbox: Entre em contato comigo por bhsoares13@gmail.com
+- :mailbox: Entre em contato comigo por bhsoares13@gmail.com | Contact me in bhsoares13@gmail.com
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeKing&theme=github_dark)-->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brenoaoa&bg_color=000000&show_icons=true&title_color=fff700&border_radius=10&border_color=eefc68&text_color=FFFFFF&icon_color=eefc68)
